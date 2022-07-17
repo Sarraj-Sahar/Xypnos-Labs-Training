@@ -34,9 +34,9 @@ class SplashContentData {
 
 class Shown_Data {
   static final List<SplashContentData> _splashData = [
-    SplashContentData(" ", "", "TRAINING 2-1"),
-    SplashContentData(" ", "", "TRAINING 2-1"),
-    SplashContentData("", "", "TRAINING 2-1"),
+    SplashContentData(" ", "Start Your Journey Today", "TRAINING 2-1"),
+    SplashContentData(" ", "Find The Right Course ", "TRAINING 2-1"),
+    SplashContentData("", "And Grow Your Skills ", "TRAINING 2-1"),
   ];
 
   List<SplashContentData> getSplashData() => _splashData;

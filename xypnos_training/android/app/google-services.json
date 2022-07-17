@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "109925652467",
+    "project_id": "xypnos-training",
+    "storage_bucket": "xypnos-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109925652467:android:66769ebe7dcb538e7c2486",
+        "android_client_info": {
+          "package_name": "com.example.xypnos_training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109925652467-c6bgvhp3bhu8hsrtps0djiovg4igh9m9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xypnos_training",
+            "certificate_hash": "e6e18ad8ef9c7ebbd866376ff115c6bbfbe00e19"
+          }
+        },
+        {
+          "client_id": "109925652467-tl33h72eq37a8s395mgr8a1kpllocap9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkCrmyAYCfMlKd5D-l0ztEA4k1SCW78OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109925652467-tl33h72eq37a8s395mgr8a1kpllocap9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
